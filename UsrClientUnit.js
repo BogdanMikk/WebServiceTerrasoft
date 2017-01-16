@@ -1,5 +1,6 @@
 ////////////////////////////
-//JS Client Module 
+//JS Client Page Module
+//////////////////////////
 //////////////////////////
 define("UsrClientUnit", ['ext-base', 'terrasoft', 'ServiceHelper'], function(Ext, Terasoft, ServiceHelper) {
 	var getView = function() {
