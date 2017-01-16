@@ -1,6 +1,6 @@
-//
+////////////////////////////
 //JS Client Module 
-//
+//////////////////////////
 define("UsrClientUnit", ['ext-base', 'terrasoft', 'ServiceHelper'], function(Ext, Terasoft, ServiceHelper) {
 	var getView = function() {
 		var config = {
