@@ -12,7 +12,7 @@ define("UsrClientUnit", ['ext-base', 'terrasoft', 'ServiceHelper'], function(Ext
 			},
 			items: [
 				{
-					className: "Terrasoft.TextEdit",/
+					className: "Terrasoft.TextEdit",
 					value: {
 						bindTo: "inputDate"
 					}
