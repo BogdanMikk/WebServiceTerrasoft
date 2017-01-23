@@ -31,7 +31,7 @@ define("UsrClientUnit", ['ext-base', 'terrasoft', 'ServiceHelper'], function(Ext
 				},
 				{
 					className: "Terrasoft.Button",
-					caption: "БАХНУТЬ",
+					caption: "Получить курс валют",
 					click: {
 						bindTo: "onServiceButtonClick"
 					}
